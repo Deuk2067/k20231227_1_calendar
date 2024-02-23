@@ -34,7 +34,7 @@
 	}
 	
 	th#sunday {
-		color: red;
+		color: tomato;
 	}
 	
 	th#saturday {
@@ -100,9 +100,7 @@
 	visited: 1번 이상 클릭한 하이퍼링크
 	hover: 하이퍼링크에 마우스를 올리고 있을 때
 	active: 하이퍼링크를 마우스로 누르고 있을 때
-
-	수정할 내용을 입력한다.
-
+	
 	a:link {
 		color: black;
 		text-decoration: none;
